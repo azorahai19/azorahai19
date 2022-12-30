@@ -5,7 +5,7 @@
 <p align = "justify"> Aspiring Full Stack Developer, Music  lover, Javascript  fan, Enthusiastic and  curious. Currently in love with ReactJS and backend programming with JS.</p>
 
 
-I'm learning at the moment **ExpressJS, ReactJS**
+I'm currently learning **ExpressJS, ReactJS**
 
 
 ## 🚀💻 Technologies & Tools
